@@ -6,7 +6,7 @@
   "main": "dist/router.es5.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/router.git"
+    "url": "https://github.com/angular/router.git"
   },
   "bugs": {
     "url": "https://github.com/angular/router/issues"
